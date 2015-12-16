@@ -1,0 +1,7 @@
+.idea
+build
+extrato-cartaobom-pdf2json.iml
+.gradle
+gradle
+gradlew
+gradlew.bat
